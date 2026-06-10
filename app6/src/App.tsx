@@ -6,7 +6,7 @@ import Home from "./components/Home";
 
 const App = () => (
   <BrowserRouter>
-    <Header appTitle="Budget Tracker 2.0" />
+    <Header appTitle="Budget Tracker 2.0 App" />
 
     <div className="container-fluid p-4">
       <Routes>
